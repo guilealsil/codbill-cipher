@@ -13,6 +13,8 @@ Cifra de César, Código Atbash e A1Z26.
 É um código apenas para entretenimento, diversão e estudos do programador.
 
 Check list:
+
+
 25/08/2021 → Cifra de César - Incluída, completa.
 
 25/08/2021 → Código Atbash - NÃO incluída, está faltando.
