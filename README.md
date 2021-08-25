@@ -14,7 +14,11 @@ Cifra de César, Código Atbash e A1Z26.
 
 Check list:
 25/08/2021 → Cifra de César - Incluída, completa.
+
 25/08/2021 → Código Atbash - NÃO incluída, está faltando.
+
 25/08/2021 → A1Z26 - NÃO incluída, está faltando.
+
 25/08/2021 → unBill Cipher - versão decodificadora. - NÃO incluída, será realizado e adicionado neste também.
+
 25/08/2021 → Layout melhorado - o antigo era uma bagunça, agora há informações dos códigos e algumas atualizações.
